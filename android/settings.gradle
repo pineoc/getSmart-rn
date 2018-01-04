@@ -1,0 +1,3 @@
+rootProject.name = 'getSmart'
+
+include ':app'
